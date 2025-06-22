@@ -1694,3 +1694,1997 @@ Load data and query: 0.299133 Seconds
 
 Ground Truth: 434.875244 Seconds
 
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.823218 Seconds
+
+Ground Truth: 4.316832 Seconds
+
+alg    = 0
+n      = 1192514
+qn     = 200
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/glove
+
+Load data and query: 0.392000 Seconds
+
+Ground Truth: 10.345684 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.046471 Seconds
+
+Ground Truth: 0.890515 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000057 Seconds
+
+Ground Truth: 0.681295 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.003593 Seconds
+
+Ground Truth: 0.554189 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.010869 Seconds
+
+Ground Truth: 1.275169 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.310830 Seconds
+
+Ground Truth: 2.549065 Seconds
+
+alg    = 0
+n      = 136736
+qn     = 100
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoomusic
+
+Load data and query: 0.080463 Seconds
+
+Ground Truth: 1.536542 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.313622 Seconds
+
+Ground Truth: 4.369248 Seconds
+
+alg    = 0
+n      = 1192514
+qn     = 200
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/glove
+
+Load data and query: 0.393312 Seconds
+
+Ground Truth: 10.378028 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.045441 Seconds
+
+Ground Truth: 0.890549 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000060 Seconds
+
+Ground Truth: 0.683067 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.003341 Seconds
+
+Ground Truth: 0.556542 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.010862 Seconds
+
+Ground Truth: 1.298723 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.148885 Seconds
+
+Ground Truth: 2.584149 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.298062 Seconds
+
+Ground Truth: 4.505418 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.043196 Seconds
+
+Ground Truth: 0.888003 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000058 Seconds
+
+Ground Truth: 0.682274 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.003478 Seconds
+
+Ground Truth: 0.555025 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.009982 Seconds
+
+Ground Truth: 1.318147 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.137838 Seconds
+
+Ground Truth: 2.559767 Seconds
+
+alg    = 0
+n      = 136736
+qn     = 100
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoomusic
+
+Load data and query: 0.074797 Seconds
+
+Ground Truth: 1.498245 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.266743 Seconds
+
+Ground Truth: 4.330053 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.042657 Seconds
+
+Ground Truth: 0.891163 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000056 Seconds
+
+Ground Truth: 0.682243 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.003320 Seconds
+
+Ground Truth: 0.554866 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.010382 Seconds
+
+Ground Truth: 1.271868 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.138386 Seconds
+
+Ground Truth: 2.551512 Seconds
+
+alg    = 0
+n      = 136736
+qn     = 100
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoomusic
+
+Load data and query: 0.074679 Seconds
+
+Ground Truth: 1.498893 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.280188 Seconds
+
+Ground Truth: 4.472249 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.042427 Seconds
+
+Ground Truth: 0.894667 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000090 Seconds
+
+Ground Truth: 0.675432 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.003355 Seconds
+
+Ground Truth: 0.553492 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.009754 Seconds
+
+Ground Truth: 1.307303 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.132934 Seconds
+
+Ground Truth: 2.589887 Seconds
+
+alg    = 0
+n      = 136736
+qn     = 100
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoomusic
+
+Load data and query: 0.073797 Seconds
+
+Ground Truth: 1.518009 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.255805 Seconds
+
+Ground Truth: 4.366172 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.042383 Seconds
+
+Ground Truth: 0.891070 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000416 Seconds
+
+Ground Truth: 0.691141 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.004724 Seconds
+
+Ground Truth: 0.557461 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.010437 Seconds
+
+Ground Truth: 1.275307 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.138975 Seconds
+
+Ground Truth: 2.644378 Seconds
+
+alg    = 0
+n      = 136736
+qn     = 100
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoomusic
+
+Load data and query: 0.077325 Seconds
+
+Ground Truth: 1.539527 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/bigann
+
+Load data and query: 0.262330 Seconds
+
+Ground Truth: 4.327888 Seconds
+
+alg    = 0
+n      = 292385
+qn     = 100
+d      = 65
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+Load data and query: 0.044498 Seconds
+
+Ground Truth: 0.895754 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lastfm
+
+N and actual dimension mismatch
+N and actual dimension mismatch
+Load data and query: 0.000401 Seconds
+
+Ground Truth: 0.680047 Seconds
+
+alg    = 0
+n      = 10677
+qn     = 1000
+d      = 150
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/movielens
+
+Load data and query: 0.003975 Seconds
+
+Ground Truth: 0.555766 Seconds
+
+alg    = 0
+n      = 17770
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/netflix
+
+Load data and query: 0.010778 Seconds
+
+Ground Truth: 1.278873 Seconds
+
+alg    = 0
+n      = 290000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/nytimes
+
+Load data and query: 0.134480 Seconds
+
+Ground Truth: 2.552276 Seconds
+
+alg    = 0
+n      = 136736
+qn     = 100
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoomusic
+
+Load data and query: 0.076463 Seconds
+
+Ground Truth: 1.392261 Seconds
+
+alg    = 0
+n      = 1989995
+qn     = 10000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/crawl
+
+Load data and query: 0.939757 Seconds
+
+Ground Truth: 2101.379883 Seconds
+
+alg    = 0
+n      = 5000000
+qn     = 1000
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/tiny5m
+
+Load data and query: 3.081220 Seconds
+
+Ground Truth: 668.358398 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/word2vec
+
+Load data and query: 0.510933 Seconds
+
+Ground Truth: 111.028481 Seconds
+
+alg    = 0
+n      = 1989995
+qn     = 10000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/crawl
+
+Load data and query: 0.980050 Seconds
+
+Ground Truth: 2126.001709 Seconds
+
+alg    = 0
+n      = 5000000
+qn     = 1000
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/tiny5m
+
+Load data and query: 3.210365 Seconds
+
+Ground Truth: 696.329529 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/word2vec
+
+Load data and query: 0.526052 Seconds
+
+Ground Truth: 113.329391 Seconds
+
+alg    = 0
+n      = 1989995
+qn     = 10000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/crawl
+
+Load data and query: 1.047431 Seconds
+
+Ground Truth: 2164.869141 Seconds
+
+alg    = 0
+n      = 5000000
+qn     = 1000
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/tiny5m
+
+Load data and query: 3.250220 Seconds
+
+Ground Truth: 698.888000 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/word2vec
+
+Load data and query: 0.526233 Seconds
+
+Ground Truth: 111.704964 Seconds
+
+alg    = 0
+n      = 1989995
+qn     = 10000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/crawl
+
+Load data and query: 1.041578 Seconds
+
+Ground Truth: 2160.969727 Seconds
+
+alg    = 0
+n      = 5000000
+qn     = 1000
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/tiny5m
+
+Load data and query: 3.310512 Seconds
+
+Ground Truth: 655.188293 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/word2vec
+
+Load data and query: 0.527419 Seconds
+
+Ground Truth: 112.373932 Seconds
+
+alg    = 0
+n      = 1989995
+qn     = 10000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/crawl
+
+Load data and query: 1.059159 Seconds
+
+Ground Truth: 2125.621826 Seconds
+
+alg    = 0
+n      = 5000000
+qn     = 1000
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/tiny5m
+
+Load data and query: 7.677945 Seconds
+
+Ground Truth: 704.680420 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 1000
+d      = 300
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/word2vec
+
+Load data and query: 0.531351 Seconds
+
+Ground Truth: 112.048668 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/sift
+
+Load data and query: 1.838678 Seconds
+
+Ground Truth: 416.877167 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/uqv
+
+Load data and query: 3.275377 Seconds
+
+Ground Truth: 669.988953 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/sift
+
+Load data and query: 0.213376 Seconds
+
+Ground Truth: 417.273621 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/uqv
+
+Load data and query: 0.400077 Seconds
+
+Ground Truth: 664.905212 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/sift
+
+Load data and query: 0.217373 Seconds
+
+Ground Truth: 416.556519 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/uqv
+
+Load data and query: 0.397293 Seconds
+
+Ground Truth: 686.215759 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/uqv
+
+Load data and query: 0.393549 Seconds
+
+Ground Truth: 666.529419 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/sift
+
+Load data and query: 0.212607 Seconds
+
+Ground Truth: 417.044342 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/uqv
+
+Load data and query: 0.403265 Seconds
+
+Ground Truth: 665.617188 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 10000
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/sift
+
+Load data and query: 0.220560 Seconds
+
+Ground Truth: 415.101654 Seconds
+
+alg    = 0
+n      = 36643
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ethz
+
+Load data and query: 0.028941 Seconds
+
+Ground Truth: 0.511982 Seconds
+
+alg    = 0
+n      = 275174
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/geofon
+
+Load data and query: 0.107945 Seconds
+
+Ground Truth: 1.738631 Seconds
+
+alg    = 0
+n      = 36643
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ethz
+
+Load data and query: 0.027118 Seconds
+
+Ground Truth: 0.408307 Seconds
+
+alg    = 0
+n      = 160178
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/vcseis
+
+Load data and query: 0.117585 Seconds
+
+Ground Truth: 2.230790 Seconds
+
+alg    = 0
+n      = 36643
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ethz
+
+Load data and query: 0.028078 Seconds
+
+Ground Truth: 0.394182 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/instancegm
+
+Load data and query: 0.363479 Seconds
+
+Ground Truth: 4.856311 Seconds
+
+alg    = 0
+n      = 36643
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ethz
+
+Load data and query: 0.032623 Seconds
+
+Ground Truth: 0.380485 Seconds
+
+alg    = 0
+n      = 519589
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/txed
+
+Load data and query: 0.352891 Seconds
+
+Ground Truth: 6.953587 Seconds
+
+alg    = 0
+n      = 275174
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/geofon
+
+Load data and query: 0.079353 Seconds
+
+Ground Truth: 1.201694 Seconds
+
+alg    = 0
+n      = 160178
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/vcseis
+
+Load data and query: 0.106943 Seconds
+
+Ground Truth: 1.729479 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/stead
+
+Load data and query: 0.611371 Seconds
+
+Ground Truth: 11.596153 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lendb
+
+Load data and query: 0.743966 Seconds
+
+Ground Truth: 12.490540 Seconds
+
+alg    = 0
+n      = 36643
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ethz
+
+Load data and query: 0.036003 Seconds
+
+Ground Truth: 0.451437 Seconds
+
+alg    = 0
+n      = 160178
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/vcseis
+
+Load data and query: 0.132345 Seconds
+
+Ground Truth: 1.858007 Seconds
+
+alg    = 0
+n      = 275174
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/geofon
+
+Load data and query: 0.103420 Seconds
+
+Ground Truth: 1.423220 Seconds
+
+alg    = 0
+n      = 160178
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/vcseis
+
+Load data and query: 0.110006 Seconds
+
+Ground Truth: 1.937013 Seconds
+
+alg    = 0
+n      = 519589
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/txed
+
+Load data and query: 0.480489 Seconds
+
+Ground Truth: 7.003738 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/instancegm
+
+Load data and query: 0.499374 Seconds
+
+Ground Truth: 5.406289 Seconds
+
+alg    = 0
+n      = 275174
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/geofon
+
+Load data and query: 0.096196 Seconds
+
+Ground Truth: 1.427213 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/stead
+
+Load data and query: 0.701505 Seconds
+
+Ground Truth: 11.649411 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lendb
+
+Load data and query: 0.883866 Seconds
+
+Ground Truth: 11.899091 Seconds
+
+alg    = 0
+n      = 519589
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/txed
+
+Load data and query: 0.344939 Seconds
+
+Ground Truth: 6.433973 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/instancegm
+
+Load data and query: 0.470813 Seconds
+
+Ground Truth: 4.414859 Seconds
+
+alg    = 0
+n      = 160178
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/vcseis
+
+Load data and query: 0.086852 Seconds
+
+Ground Truth: 1.492738 Seconds
+
+alg    = 0
+n      = 275174
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/geofon
+
+Load data and query: 0.103487 Seconds
+
+Ground Truth: 1.299795 Seconds
+
+alg    = 0
+n      = 519589
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/txed
+
+Load data and query: 0.475537 Seconds
+
+Ground Truth: 6.219627 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/stead
+
+Load data and query: 0.531036 Seconds
+
+Ground Truth: 10.549765 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lendb
+
+Load data and query: 0.719314 Seconds
+
+Ground Truth: 11.347068 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/instancegm
+
+Load data and query: 0.467077 Seconds
+
+Ground Truth: 4.245411 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lendb
+
+Load data and query: 0.720970 Seconds
+
+Ground Truth: 12.331005 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/stead
+
+Load data and query: 0.582451 Seconds
+
+Ground Truth: 10.815750 Seconds
+
+alg    = 0
+n      = 519589
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/txed
+
+Load data and query: 0.265192 Seconds
+
+Ground Truth: 5.824320 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/instancegm
+
+Load data and query: 0.355231 Seconds
+
+Ground Truth: 4.524559 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lendb
+
+Load data and query: 0.657419 Seconds
+
+Ground Truth: 12.195977 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/stead
+
+Load data and query: 0.632964 Seconds
+
+Ground Truth: 11.052750 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.012275 Seconds
+
+Ground Truth: 0.231767 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.011906 Seconds
+
+Ground Truth: 0.250893 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.011611 Seconds
+
+Ground Truth: 0.236003 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.204616 Seconds
+
+Ground Truth: 4.908731 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.011690 Seconds
+
+Ground Truth: 0.250613 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.011227 Seconds
+
+Ground Truth: 0.236402 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.206209 Seconds
+
+Ground Truth: 4.789448 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.210418 Seconds
+
+Ground Truth: 4.806847 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.208406 Seconds
+
+Ground Truth: 4.738062 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.206012 Seconds
+
+Ground Truth: 4.782104 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.226358 Seconds
+
+Ground Truth: 5.995287 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.246659 Seconds
+
+Ground Truth: 6.010826 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.235254 Seconds
+
+Ground Truth: 6.046788 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.261625 Seconds
+
+Ground Truth: 6.004750 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+
+Load data and query: 0.968716 Seconds
+
+Ground Truth: 5.713234 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.117847 Seconds
+
+Ground Truth: 0.267232 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.017745 Seconds
+
+Ground Truth: 0.271594 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.012675 Seconds
+
+Ground Truth: 0.266861 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.023537 Seconds
+
+Ground Truth: 0.372844 Seconds
+
+alg    = 0
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+
+Load data and query: 0.012433 Seconds
+
+Ground Truth: 0.266741 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBS
+
+Load data and query: 2.243279 Seconds
+
+Ground Truth: 32.219398 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBS
+
+Load data and query: 0.545964 Seconds
+
+Ground Truth: 36.685318 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBS
+
+Load data and query: 0.513256 Seconds
+
+Ground Truth: 37.845917 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBS
+
+Load data and query: 0.595226 Seconds
+
+Ground Truth: 39.792458 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBS
+
+Load data and query: 0.527553 Seconds
+
+Ground Truth: 31.274370 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/PNW
+
+Load data and query: 0.557754 Seconds
+
+Ground Truth: 28.777361 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/PNW
+
+Load data and query: 0.536983 Seconds
+
+Ground Truth: 26.213961 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/PNW
+
+Load data and query: 0.504201 Seconds
+
+Ground Truth: 25.483789 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/PNW
+
+Load data and query: 0.603297 Seconds
+
+Ground Truth: 26.020784 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/PNW
+
+Load data and query: 0.631462 Seconds
+
+Ground Truth: 26.259729 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBST2024
+
+Load data and query: 0.502726 Seconds
+
+Ground Truth: 34.430153 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBST2024
+
+Load data and query: 0.596670 Seconds
+
+Ground Truth: 34.259579 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBST2024
+
+Load data and query: 0.497925 Seconds
+
+Ground Truth: 34.030647 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBST2024
+
+Load data and query: 0.599655 Seconds
+
+Ground Truth: 34.460773 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBST2024
+
+Load data and query: 0.476924 Seconds
+
+Ground Truth: 33.826496 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/NEIC
+
+Load data and query: 1.006031 Seconds
+
+Ground Truth: 29.046680 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/NEIC
+
+Load data and query: 0.495337 Seconds
+
+Ground Truth: 36.998383 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/NEIC
+
+Load data and query: 0.510719 Seconds
+
+Ground Truth: 39.044891 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/NEIC
+
+Load data and query: 0.599564 Seconds
+
+Ground Truth: 37.997166 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/NEIC
+
+Load data and query: 6.286794 Seconds
+
+Ground Truth: 42.456982 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Meier2019JGR
+
+Load data and query: 2.309102 Seconds
+
+Ground Truth: 39.920509 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Meier2019JGR
+
+Load data and query: 5.675876 Seconds
+
+Ground Truth: 39.190193 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Meier2019JGR
+
+Load data and query: 3.645095 Seconds
+
+Ground Truth: 35.929508 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Meier2019JGR
+
+Load data and query: 0.617632 Seconds
+
+Ground Truth: 36.378536 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Meier2019JGR
+
+Load data and query: 6.251439 Seconds
+
+Ground Truth: 35.704102 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ISC_EHB_DepthPhases
+
+Load data and query: 10.470700 Seconds
+
+Ground Truth: 22.557875 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ISC_EHB_DepthPhases
+
+Load data and query: 3.635979 Seconds
+
+Ground Truth: 19.344707 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ISC_EHB_DepthPhases
+
+Load data and query: 0.614546 Seconds
+
+Ground Truth: 19.951532 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ISC_EHB_DepthPhases
+
+Load data and query: 0.614804 Seconds
+
+Ground Truth: 22.425867 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ISC_EHB_DepthPhases
+
+Load data and query: 0.614604 Seconds
+
+Ground Truth: 19.634563 Seconds
+
+alg    = 0
+n      = 578853
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Iquique
+
+Load data and query: 1.976420 Seconds
+
+Ground Truth: 22.056822 Seconds
+
+alg    = 0
+n      = 578853
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Iquique
+
+Load data and query: 24.003069 Seconds
+
+Ground Truth: 22.340315 Seconds
+
+alg    = 0
+n      = 578853
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Iquique
+
+Load data and query: 9.953682 Seconds
+
+Ground Truth: 25.298199 Seconds
+
+alg    = 0
+n      = 578853
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Iquique
+
+Load data and query: 29.877085 Seconds
+
+Ground Truth: 24.510660 Seconds
+
+alg    = 0
+n      = 578853
+qn     = 300
+d      = 256
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Iquique
+
+Load data and query: 4.521258 Seconds
+
+Ground Truth: 21.384682 Seconds
+
