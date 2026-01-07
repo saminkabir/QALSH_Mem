@@ -360,3 +360,603 @@ k-NN Search by QALSH:
 Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
 20		1.0261		5.460		51.700001		0.417809
 
+alg    = 2
+n      = 1000000
+qn     = 10000
+d      = 128
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/sift
+folder = ../results/sift/c=2.0_p=2.0/
+
+Load data and query: 0.223563 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 128
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 16.869682 Seconds
+Estimated Mem = 633.280334 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0396		65.309		48.353600		0.374995
+
+alg    = 2
+n      = 1000000
+qn     = 10000
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/uqv
+folder = ../results/uqv/c=2.0_p=2.0/
+
+Load data and query: 0.389011 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 24.712872 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		-nan		41.401		59.280701		0.481877
+
+alg    = 2
+n      = 36643
+qn     = 100
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ethz
+folder = ../results/ethz/c=2.0_p=2.0/
+
+Load data and query: 0.025716 Seconds
+
+Parameters of QALSH:
+n     = 36643
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 62
+l     = 46
+
+Indexing Time = 0.869382 Seconds
+Estimated Mem = 17.393570 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0101		1.360		80.599998		0.768439
+
+alg    = 2
+n      = 160178
+qn     = 100
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/vcseis
+folder = ../results/vcseis/c=2.0_p=2.0/
+
+Load data and query: 0.113458 Seconds
+
+Parameters of QALSH:
+n     = 160178
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 71
+l     = 53
+
+Indexing Time = 4.138580 Seconds
+Estimated Mem = 86.835739 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0367		8.057		42.770000		0.383516
+
+alg    = 2
+n      = 275174
+qn     = 100
+d      = 128
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/geofon
+folder = ../results/geofon/c=2.0_p=2.0/
+
+Load data and query: 0.115253 Seconds
+
+Parameters of QALSH:
+n     = 275174
+d     = 128
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 75
+l     = 56
+
+Indexing Time = 4.779096 Seconds
+Estimated Mem = 157.492508 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0111		11.493		81.889999		0.777819
+
+alg    = 2
+n      = 519589
+qn     = 100
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/txed
+folder = ../results/txed/c=2.0_p=2.0/
+
+Load data and query: 0.366879 Seconds
+
+Parameters of QALSH:
+n     = 519589
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 79
+l     = 59
+
+Indexing Time = 16.681061 Seconds
+Estimated Mem = 313.245026 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0661		47.267		16.860001		0.120429
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 128
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/instancegm
+folder = ../results/instancegm/c=2.0_p=2.0/
+
+Load data and query: 0.505178 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 128
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 22.396160 Seconds
+Estimated Mem = 633.280334 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0993		34.325		51.169998		0.463459
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/stead
+folder = ../results/stead/c=2.0_p=2.0/
+
+Load data and query: 0.644338 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 30.974424 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0658		71.596		14.980000		0.091691
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/lendb
+folder = ../results/lendb/c=2.0_p=2.0/
+
+Load data and query: 0.728894 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 33.501938 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0191		44.077		72.120003		0.648948
+
+alg    = 2
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+folder = ../results/Yelp/c=2.0_p=2.0/
+
+Load data and query: 0.011530 Seconds
+
+Parameters of QALSH:
+n     = 77079
+d     = 50
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 67
+l     = 50
+
+Indexing Time = 0.679225 Seconds
+Estimated Mem = 39.413269 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0499		5.216		10.380000		0.034801
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+folder = ../results/Music/c=2.0_p=2.0/
+
+Load data and query: 0.220045 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 100
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 15.499240 Seconds
+Estimated Mem = 633.271484 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0394		114.064		1.680000		0.002197
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 100
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Music
+folder = ../results/Music/c=2.0_p=2.0/
+
+Load data and query: 0.223129 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 100
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 18.129242 Seconds
+Estimated Mem = 633.271484 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0394		133.142		1.680000		0.002197
+
+alg    = 2
+n      = 77079
+qn     = 100
+d      = 50
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Yelp
+folder = ../results/Yelp/c=2.0_p=2.0/
+
+Load data and query: 0.013232 Seconds
+
+Parameters of QALSH:
+n     = 77079
+d     = 50
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 67
+l     = 50
+
+Indexing Time = 0.834538 Seconds
+Estimated Mem = 39.413269 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0499		6.628		10.380000		0.034801
+
+alg    = 2
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBS
+folder = ../results/OBS/c=2.0_p=2.0/
+
+Load data and query: 0.527947 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 26.336531 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		-nan		12.709		92.879997		0.918639
+
+alg    = 2
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/PNW
+folder = ../results/PNW/c=2.0_p=2.0/
+
+Load data and query: 0.556025 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 29.696171 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		-nan		56.071		51.276669		0.482413
+
+alg    = 2
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/OBST2024
+folder = ../results/OBST2024/c=2.0_p=2.0/
+
+Load data and query: 0.556423 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 30.446831 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0990		106.611		29.020000		0.234221
+
+alg    = 2
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/NEIC
+folder = ../results/NEIC/c=2.0_p=2.0/
+
+Load data and query: 0.627714 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 31.030151 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0450		75.506		41.383335		0.337929
+
+alg    = 2
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Meier2019JGR
+folder = ../results/Meier2019JGR/c=2.0_p=2.0/
+
+Load data and query: 5.870316 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 32.314415 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0265		135.367		61.799999		0.574383
+
+alg    = 2
+n      = 1000000
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ISC_EHB_DepthPhases
+folder = ../results/ISC_EHB_DepthPhases/c=2.0_p=2.0/
+
+Load data and query: 33.221596 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 83
+l     = 63
+
+Indexing Time = 15417.390625 Seconds
+Estimated Mem = 633.320862 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0173		38.244		69.033333		0.624351
+
+alg    = 2
+n      = 578853
+qn     = 300
+d      = 256
+p      = 2.0
+zeta   = 0.0
+c      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/Iquique
+folder = ../results/Iquique/c=2.0_p=2.0/
+
+Load data and query: 2.255911 Seconds
+
+Parameters of QALSH:
+n     = 578853
+d     = 256
+p     = 2.0
+zeta  = 0.0
+c     = 2.0
+w     = 2.719112
+m     = 80
+l     = 60
+
+Indexing Time = 17.320488 Seconds
+Estimated Mem = 353.382019 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0703		60.452		23.336666		0.163881
+

@@ -1,18 +1,18 @@
 	Command being timed: "./qalsh -alg 2 -n 77079 -qn 100 -d 50 -p 2.0 -z 0.0 -c 1.25 -dt float32 -pf /data/kabir/similarity-search/dataset/Yelp -of ../results/Yelp/c=1.25_p=2.0/ -dname log4"
-	User time (seconds): 11.30
-	System time (seconds): 0.11
+	User time (seconds): 13.02
+	System time (seconds): 0.20
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.42
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:13.22
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 379388
+	Maximum resident set size (kbytes): 379440
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 94151
+	Minor (reclaiming a frame) page faults: 107044
 	Voluntary context switches: 2
-	Involuntary context switches: 16
+	Involuntary context switches: 25
 	Swaps: 0
 	File system inputs: 8
 	File system outputs: 16
