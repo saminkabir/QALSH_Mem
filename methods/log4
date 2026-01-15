@@ -958,3 +958,363 @@ k-NN Search by QALSH:
 Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
 100		1.0079		667.321		66.413330		0.593960
 
+alg    = 2
+n      = 256921
+qn     = 100
+d      = 128
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/llama-128-ip
+folder = ../results/llama-128-ip/c=1.25_p=2.0/
+
+Load data and query: 0.065345 Seconds
+
+Parameters of QALSH:
+n     = 256921
+d     = 128
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 667
+l     = 472
+
+Indexing Time = 37.669022 Seconds
+Estimated Mem = 1307.746948 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0055		251.852		56.959999		0.448331
+
+alg    = 2
+n      = 282360
+qn     = 100
+d      = 768
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/coco-nomic-768-normalized
+folder = ../results/coco-nomic-768-normalized/c=1.25_p=2.0/
+
+Load data and query: 0.449108 Seconds
+
+Parameters of QALSH:
+n     = 282360
+d     = 768
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 673
+l     = 476
+
+Indexing Time = 163.719635 Seconds
+Estimated Mem = 1451.772461 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0172		328.036		3.700000		0.006754
+
+alg    = 2
+n      = 201599
+qn     = 100
+d      = 2048
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine
+folder = ../results/celeba-resnet-2048-cosine/c=1.25_p=2.0/
+
+Load data and query: 0.763643 Seconds
+
+Parameters of QALSH:
+n     = 201599
+d     = 2048
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 653
+l     = 462
+
+Indexing Time = 276.296906 Seconds
+Estimated Mem = 1009.466736 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0028		149.910		85.669998		0.824447
+
+alg    = 2
+n      = 677305
+qn     = 100
+d      = 384
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized
+folder = ../results/yahoo-minilm-384-normalized/c=1.25_p=2.0/
+
+Load data and query: 0.471629 Seconds
+
+Parameters of QALSH:
+n     = 677305
+d     = 384
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 723
+l     = 513
+
+Indexing Time = 263.819031 Seconds
+Estimated Mem = 3737.108887 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0034		1114.553		83.360001		0.799565
+
+alg    = 2
+n      = 495328
+qn     = 100
+d      = 768
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized
+folder = ../results/ccnews-nomic-768-normalized/c=1.25_p=2.0/
+
+Load data and query: 1.092473 Seconds
+
+Parameters of QALSH:
+n     = 495328
+d     = 768
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 705
+l     = 500
+
+Indexing Time = 298.359741 Seconds
+Estimated Mem = 2666.297607 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0034		633.769		83.480003		0.798897
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 200
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yandex-200-cosine
+folder = ../results/yandex-200-cosine/c=1.25_p=2.0/
+
+Load data and query: 0.376175 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 200
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 745
+l     = 528
+
+Indexing Time = 277.481506 Seconds
+Estimated Mem = 5684.467285 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0101		1848.891		53.040001		0.423765
+
+alg    = 2
+n      = 760757
+qn     = 100
+d      = 768
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized
+folder = ../results/landmark-nomic-768-normalized/c=1.25_p=2.0/
+
+Load data and query: 1.168404 Seconds
+
+Parameters of QALSH:
+n     = 760757
+d     = 768
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 730
+l     = 518
+
+Indexing Time = 439.469299 Seconds
+Estimated Mem = 4239.143066 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0011		560.339		93.599998		0.923151
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 512
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/laion-clip-512-normalized
+folder = ../results/laion-clip-512-normalized/c=1.25_p=2.0/
+
+Load data and query: 0.868842 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 512
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 745
+l     = 528
+
+Indexing Time = 579.004761 Seconds
+Estimated Mem = 5685.354004 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0258		1335.169		19.070000		0.096482
+
+alg    = 2
+n      = 769382
+qn     = 100
+d      = 1024
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean
+folder = ../results/agnews-mxbai-1024-euclidean/c=1.25_p=2.0/
+
+Load data and query: 2.270792 Seconds
+
+Parameters of QALSH:
+n     = 769382
+d     = 1024
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 730
+l     = 518
+
+Indexing Time = 554.886597 Seconds
+Estimated Mem = 4287.892578 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		-nan		755.353		83.650002		0.804781
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized
+folder = ../results/gooaq-distilroberta-768-normalized/c=1.25_p=2.0/
+
+Load data and query: 2.168580 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 768
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 745
+l     = 528
+
+Indexing Time = 566.505981 Seconds
+Estimated Mem = 5686.081543 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0021		951.765		89.970001		0.882020
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine
+folder = ../results/codesearchnet-jina-768-cosine/c=1.25_p=2.0/
+
+Load data and query: 2.507607 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 768
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 745
+l     = 528
+
+Indexing Time = 893.179626 Seconds
+Estimated Mem = 5686.081543 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0020		1592.589		88.949997		0.867158
+
+alg    = 2
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+zeta   = 0.0
+c      = 1.2
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized
+folder = ../results/arxiv-nomic-768-normalized/c=1.25_p=2.0/
+
+Load data and query: 2.094510 Seconds
+
+Parameters of QALSH:
+n     = 1000000
+d     = 768
+p     = 2.0
+zeta  = 0.0
+c     = 1.2
+w     = 2.226824
+m     = 745
+l     = 528
+
+Indexing Time = 897.256592 Seconds
+Estimated Mem = 5686.081543 MB
+
+k-NN Search by QALSH:
+Top-k		Ratio		Time (ms)	Recall (%)	MAP (%)
+100		1.0027		1569.493		85.529999		0.822799
+

@@ -3688,3 +3688,723 @@ Load data and query: 4.521258 Seconds
 
 Ground Truth: 21.384682 Seconds
 
+alg    = 0
+n      = 256921
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/llama-128-ip
+
+Load data and query: 3.181147 Seconds
+
+Ground Truth: 1.710660 Seconds
+
+alg    = 0
+n      = 256921
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/llama-128-ip
+
+Load data and query: 0.063532 Seconds
+
+Ground Truth: 1.556112 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 200
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yandex-200-cosine
+
+Load data and query: 14.314511 Seconds
+
+Ground Truth: 9.327325 Seconds
+
+alg    = 0
+n      = 282360
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/coco-nomic-768-normalized
+
+Load data and query: 14.764702 Seconds
+
+Ground Truth: 10.239057 Seconds
+
+alg    = 0
+n      = 256921
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/llama-128-ip
+
+Load data and query: 0.064696 Seconds
+
+Ground Truth: 2.286238 Seconds
+
+alg    = 0
+n      = 677305
+qn     = 100
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized
+
+Load data and query: 17.374104 Seconds
+
+Ground Truth: 12.787865 Seconds
+
+alg    = 0
+n      = 201599
+qn     = 100
+d      = 2048
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine
+
+Load data and query: 25.114286 Seconds
+
+Ground Truth: 11.787188 Seconds
+
+alg    = 0
+n      = 495328
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized
+
+Load data and query: 24.886189 Seconds
+
+Ground Truth: 16.113810 Seconds
+
+alg    = 0
+n      = 256921
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/llama-128-ip
+
+Load data and query: 0.064078 Seconds
+
+Ground Truth: 2.144920 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 512
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/laion-clip-512-normalized
+
+Load data and query: 30.118807 Seconds
+
+Ground Truth: 22.132505 Seconds
+
+alg    = 0
+n      = 760757
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized
+
+Load data and query: 32.816563 Seconds
+
+Ground Truth: 23.705862 Seconds
+
+alg    = 0
+n      = 282360
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/coco-nomic-768-normalized
+
+Load data and query: 0.438435 Seconds
+
+Ground Truth: 13.148697 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 200
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yandex-200-cosine
+
+Load data and query: 0.364326 Seconds
+
+Ground Truth: 9.799970 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine
+
+Load data and query: 38.691280 Seconds
+
+Ground Truth: 33.521183 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized
+
+Load data and query: 38.864357 Seconds
+
+Ground Truth: 34.250965 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized
+
+Load data and query: 38.803101 Seconds
+
+Ground Truth: 34.742184 Seconds
+
+alg    = 0
+n      = 769382
+qn     = 100
+d      = 1024
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean
+
+Load data and query: 40.731667 Seconds
+
+Ground Truth: 36.724312 Seconds
+
+alg    = 0
+n      = 677305
+qn     = 100
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized
+
+Load data and query: 0.461052 Seconds
+
+Ground Truth: 13.327839 Seconds
+
+alg    = 0
+n      = 201599
+qn     = 100
+d      = 2048
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine
+
+Load data and query: 0.813706 Seconds
+
+Ground Truth: 12.782774 Seconds
+
+alg    = 0
+n      = 495328
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized
+
+Load data and query: 0.764532 Seconds
+
+Ground Truth: 17.145868 Seconds
+
+alg    = 0
+n      = 282360
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/coco-nomic-768-normalized
+
+Load data and query: 0.434866 Seconds
+
+Ground Truth: 10.451727 Seconds
+
+alg    = 0
+n      = 256921
+qn     = 100
+d      = 128
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/llama-128-ip
+
+Load data and query: 0.063971 Seconds
+
+Ground Truth: 2.914083 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 200
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yandex-200-cosine
+
+Load data and query: 0.369354 Seconds
+
+Ground Truth: 9.553923 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 512
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/laion-clip-512-normalized
+
+Load data and query: 0.886521 Seconds
+
+Ground Truth: 22.586233 Seconds
+
+alg    = 0
+n      = 760757
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized
+
+Load data and query: 1.166015 Seconds
+
+Ground Truth: 21.969873 Seconds
+
+alg    = 0
+n      = 677305
+qn     = 100
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized
+
+Load data and query: 0.476009 Seconds
+
+Ground Truth: 13.458958 Seconds
+
+alg    = 0
+n      = 201599
+qn     = 100
+d      = 2048
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine
+
+Load data and query: 0.764873 Seconds
+
+Ground Truth: 11.753196 Seconds
+
+alg    = 0
+n      = 282360
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/coco-nomic-768-normalized
+
+Load data and query: 0.432073 Seconds
+
+Ground Truth: 10.614798 Seconds
+
+alg    = 0
+n      = 495328
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized
+
+Load data and query: 0.836452 Seconds
+
+Ground Truth: 17.796858 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine
+
+Load data and query: 1.568978 Seconds
+
+Ground Truth: 34.003944 Seconds
+
+alg    = 0
+n      = 769382
+qn     = 100
+d      = 1024
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean
+
+Load data and query: 1.604477 Seconds
+
+Ground Truth: 34.656055 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized
+
+Load data and query: 1.559490 Seconds
+
+Ground Truth: 34.943539 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized
+
+Load data and query: 1.522789 Seconds
+
+Ground Truth: 35.157440 Seconds
+
+alg    = 0
+n      = 677305
+qn     = 100
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized
+
+Load data and query: 0.471884 Seconds
+
+Ground Truth: 13.965149 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 200
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yandex-200-cosine
+
+Load data and query: 0.378838 Seconds
+
+Ground Truth: 9.552542 Seconds
+
+alg    = 0
+n      = 201599
+qn     = 100
+d      = 2048
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine
+
+Load data and query: 0.768810 Seconds
+
+Ground Truth: 12.207813 Seconds
+
+alg    = 0
+n      = 760757
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized
+
+Load data and query: 1.168301 Seconds
+
+Ground Truth: 22.649368 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 512
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/laion-clip-512-normalized
+
+Load data and query: 0.890378 Seconds
+
+Ground Truth: 23.490194 Seconds
+
+alg    = 0
+n      = 495328
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized
+
+Load data and query: 0.772363 Seconds
+
+Ground Truth: 17.507587 Seconds
+
+alg    = 0
+n      = 769382
+qn     = 100
+d      = 1024
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean
+
+Load data and query: 1.543636 Seconds
+
+Ground Truth: 36.814598 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized
+
+Load data and query: 1.584125 Seconds
+
+Ground Truth: 39.157719 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine
+
+Load data and query: 1.563536 Seconds
+
+Ground Truth: 38.827461 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized
+
+Load data and query: 1.547636 Seconds
+
+Ground Truth: 35.880077 Seconds
+
+alg    = 0
+n      = 282360
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/coco-nomic-768-normalized
+
+Load data and query: 0.434319 Seconds
+
+Ground Truth: 14.013993 Seconds
+
+alg    = 0
+n      = 760757
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized
+
+Load data and query: 1.164241 Seconds
+
+Ground Truth: 22.034388 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 512
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/laion-clip-512-normalized
+
+Load data and query: 0.877790 Seconds
+
+Ground Truth: 22.523796 Seconds
+
+alg    = 0
+n      = 201599
+qn     = 100
+d      = 2048
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/celeba-resnet-2048-cosine
+
+Load data and query: 0.724461 Seconds
+
+Ground Truth: 12.564682 Seconds
+
+alg    = 0
+n      = 769382
+qn     = 100
+d      = 1024
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean
+
+Load data and query: 1.472403 Seconds
+
+Ground Truth: 38.764378 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized
+
+Load data and query: 1.574691 Seconds
+
+Ground Truth: 40.503494 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine
+
+Load data and query: 1.586065 Seconds
+
+Ground Truth: 37.993671 Seconds
+
+alg    = 0
+n      = 677305
+qn     = 100
+d      = 384
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yahoo-minilm-384-normalized
+
+Load data and query: 0.492678 Seconds
+
+Ground Truth: 15.705638 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized
+
+Load data and query: 2.152187 Seconds
+
+Ground Truth: 45.290077 Seconds
+
+alg    = 0
+n      = 495328
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/ccnews-nomic-768-normalized
+
+Load data and query: 0.695061 Seconds
+
+Ground Truth: 16.031904 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 200
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/yandex-200-cosine
+
+Load data and query: 0.348798 Seconds
+
+Ground Truth: 8.131123 Seconds
+
+alg    = 0
+n      = 760757
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/landmark-nomic-768-normalized
+
+Load data and query: 1.037901 Seconds
+
+Ground Truth: 20.723759 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 512
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/laion-clip-512-normalized
+
+Load data and query: 0.796172 Seconds
+
+Ground Truth: 18.911697 Seconds
+
+alg    = 0
+n      = 769382
+qn     = 100
+d      = 1024
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/agnews-mxbai-1024-euclidean
+
+Load data and query: 1.337001 Seconds
+
+Ground Truth: 30.825760 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/gooaq-distilroberta-768-normalized
+
+Load data and query: 1.319204 Seconds
+
+Ground Truth: 30.422079 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/arxiv-nomic-768-normalized
+
+Load data and query: 1.322175 Seconds
+
+Ground Truth: 28.539137 Seconds
+
+alg    = 0
+n      = 1000000
+qn     = 100
+d      = 768
+p      = 2.0
+dtype  = float32
+prefix = /data/kabir/similarity-search/dataset/codesearchnet-jina-768-cosine
+
+Load data and query: 1.329685 Seconds
+
+Ground Truth: 30.209911 Seconds
+
